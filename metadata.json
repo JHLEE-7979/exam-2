@@ -1,0 +1,6 @@
+{
+  "name": "개인 성적 셀프 조회 도우미",
+  "description": "한울교육훈련센터의 본인 비밀번호만 입력하여 안전하게 회차별 성적, 평균, 석차 및 순위를 셀프 조회하는 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
